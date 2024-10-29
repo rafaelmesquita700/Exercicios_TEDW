@@ -1,1 +1,1 @@
-# Exercicios_TEW
+Exercícicos da disciplina Tópicos Especiais em Desenv. WEB
